@@ -8,5 +8,6 @@ public class Dank {
         //stalin
         //hitler
         //chuckie looks like a horse
+        //aidan barely passed math
     }
 }
