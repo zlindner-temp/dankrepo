@@ -1,14 +1,15 @@
-//Zach Lindner
+//Math life
 
 public class Dank {
 
     public static void main(String[] args) {
-        //first message
-        //999
-        //stalin
-        //hitler
-        //chuckie looks like a horse
-        //aidan barely passed math
-        //pity marks
+        
+        //aidan
+        
+        //mawky
+        
+        //chuck
+        
+        //zach
     }
 }
