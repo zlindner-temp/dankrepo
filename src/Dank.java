@@ -6,5 +6,6 @@ public class Dank {
         //first message
         //999
         //stalin
+        //hitler
     }
 }
